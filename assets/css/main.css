@@ -97,6 +97,9 @@ textarea {
     line-height: 22px;
     background: yellow;
     color: black;
+    font-size: 12px;
+    font-family: Arial;
+    text-align: center;
 }
 *{
 	padding:0;
