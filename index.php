@@ -1,5 +1,4 @@
 <? include '_head.php'; ?>
-
 <body>
 	<? include '_chromeframe.php'; ?>
     <div class="wrapper">	
