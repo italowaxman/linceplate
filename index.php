@@ -1,13 +1,14 @@
-<? include '_head.php'; ?>
-
+<?php include '_head.php'; ?>
 <body>
-	<? include '_chromeframe.php'; ?>
+    <?php include '_chromeframe.php'; ?>
     <div class="wrapper">	
-		<? include '_header.php'; ?>
+        <?php include '_header.php'; ?>
 
-		<div id="content"> </div><!-- fim content-->
-		
-		<? include '_footer.php'; ?>
-    </div><!-- fim wrapper-->
+            <div id="content">
+                <!-- Put your content here -->
+            </div>
+
+        <?php include '_footer.php'; ?>
+    </div><!-- ./wrapper-->
 </body>
 </html>
