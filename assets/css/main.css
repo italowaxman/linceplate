@@ -92,6 +92,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.cf-msn{
+    .height: 22px;
+    line-height: 22px;
+    background: yellow;
+    color: black;
+    font-size: 12px;
+    font-family: Arial;
+    text-align: center;
+}
 *{
 	padding:0;
 	margin:0;
